@@ -1,0 +1,16 @@
+.main-card {
+    margin-top: 20px;
+    background-color: #8A92A3; 
+    border-radius: 15px;
+    padding-bottom: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.scrum-title {
+    font-weight: bold; 
+    color: #FFFFFF; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 10px; 
+}
